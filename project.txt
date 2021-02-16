@@ -1,2 +1,4 @@
 this is the group project using github 
 we are group-I in the row
+
+each one doing a different file and pushing and pulling files into github repository
